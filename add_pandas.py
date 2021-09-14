@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("/mnt/data/foo/numbers.csv")
+df = pd.read_csv("/data/foo-1/numbers.csv")
 
 df["sum"] = df["a"] + df["b"]
 
