@@ -8,4 +8,4 @@ print("*************************")
 print(df)
 print("*************************")
 
-df.to_csv("outputs/sum.csv", index=False)
+df.to_csv("output/sum.csv", index=False)
